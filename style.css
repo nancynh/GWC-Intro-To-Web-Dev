@@ -1,5 +1,7 @@
 html {
-  font-size: 24px;
+  font-size: 20px;
+  letter-spacing: 1px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 body {
@@ -85,10 +87,11 @@ img {
 }
 
 ul {
+  font-family: 'Open Sans', sans-serif !important;
+
   text-align: center;
   list-style: inside;
   padding: 0vw 0vw;
-
 }
 
 a:link {
